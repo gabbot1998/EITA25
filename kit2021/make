@@ -1,0 +1,3 @@
+#!/bin/bash
+
+gcc -o mylogin mylogin.c pwdblib.c -lcrypt
